@@ -1,13 +1,13 @@
-# NLW Returns
+# NLW Returns - Origins
 
-Projeto criado pela Rockeseat no evento NLW Returns em 02 de Maio de 2022.
+Projeto criado pela Rockeseat no evento NLW Returns (Trilha Origins) em 02 de Maio de 2022.
 
-O intuito do projeto é criar um sistema de acordo com design projetado.
+O intuito deste projeto é recriar o layout da DoctorCare usando HTML, CSS e Javascript, de acordo com o design criado no Figma.
 
 ## Tecnologias
 
-Para este projeto será usado HTML, CSS e Javascript.
+Para este projeto foi utilizado: HTML, CSS e Javascript.
 
 <hr>
 
-#### Obs: Projeto em Desenvolvimento.
+#### Status: Projeto concluido.
