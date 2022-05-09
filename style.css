@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
 /* Geral */
 :root {
-  --hue: 190;
+  --hue: 50;
   --primary-color: hsl(var(--hue), 100%, 26%);
   --headline: hsl(210, 11%, 15%);
   --paragraph: hsl(210, 9%, 31%);
@@ -680,7 +680,7 @@ footer .socialMedia {
     margin-bottom: 0;
   }
 
-  /* ================ CONTACT ================*/
+  /* ================ Contact ================*/
   #contact .wrapper {
     grid-template-columns: 1fr 57.5rem;
     grid-template-areas: 'A B';
@@ -690,11 +690,11 @@ footer .socialMedia {
     width: 40.4rem;
   }
 
-  /* ================ FOOTER ================*/
+  /* ================ Footer ================*/
   footer {
     padding-block: 8rem;
   }
-  
+
   footer .wrapper {
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 'A B';
